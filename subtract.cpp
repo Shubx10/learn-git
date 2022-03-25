@@ -7,4 +7,5 @@ int main()
     int b=3;
     int sum=b-a;
     cout<<"Answer is "<<sum;
+    return 0;
 }
